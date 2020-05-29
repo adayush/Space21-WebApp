@@ -1,0 +1,12 @@
+.dashtop {
+  width: 100%;
+  height: 200px;
+  background: #EBEFF8;
+  padding: 10%;
+}
+
+.dashmid {
+  background: #FFFFFF;
+  border-radius: 35px 35px 0px 0px;
+}
+
